@@ -1,5 +1,5 @@
 <?php  
-$connect = mysqli_connect('localhost','root','','uniska_praktikum');
+$connect = mysqli_connect('localhost','root','','praktikum_1_web_2');
 
 
 if (!$connect)
